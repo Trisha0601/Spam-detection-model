@@ -26,3 +26,6 @@ Python 3.8 or higher
 4) Train a Naive Bayes classifier.
 5) Test the trained model using unseen messages.
 6) Predict whether a message is Spam or Not Spam.
+# How to run
+Python spam_detection.py
+streamlit run spam_detection.py
